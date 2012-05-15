@@ -15,7 +15,8 @@ Ubuntu 11.10-es box letöltése
 http://timhuegdon.com/vagrant-boxes/ubuntu-11.10.box`
 
 Oracle telepítő RPM letöltése, majd átmásolása a
-modules/oracle/files mappába (nincs bent git-ben)
+modules/oracle/files mappába (nincs bent git-ben). Bejelentkezés után
+letölthető innen: http://www.oracle.com/technetwork/products/express-edition/downloads/index.html
 
 VM létrehozása és oracle installálás. A debug log nélkül nekem nem
 ment. A folyamat eltart néhány percig, és a végén kiír egy hibát is
